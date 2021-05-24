@@ -1,3 +1,8 @@
+#CUSTOM REACT TABLE
+
+This project convert your API JSON data to the Table Component.You just need to fetch the data from the API and create a list of required Columns to show on your UI and pass them as parameter to the Component. The Component will return the Table UI.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
